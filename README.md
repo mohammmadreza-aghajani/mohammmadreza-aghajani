@@ -1,5 +1,5 @@
-<h1 align="center">MR.Z resume</h1>
-<h2>im a junoir Backend Dev who is trying to improve</h2>
+<h1 align="center">Hello World</h1>
+<h2>im a junoir Backend Dev who's trying to improve</h2>
 <h3>here you can find out skills that i have acquired</h3>
 
 </div>
